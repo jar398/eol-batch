@@ -10,8 +10,8 @@ First time Jenkins setup
  - Initial admin password is written on installation to 
    /var/lib/jenkins/secrets/initialAdminPassword
  - In absence of HTTPS, listening for now only on 127.0.0.1.
- - For modification(s) to /etc/default/jenkins (e.g. HTTP configuration), see 
-   [[/etc/default/jenkins|etc-default-jenkins]].  
+ - For local modification(s) to /etc/default/jenkins (e.g. HTTP configuration), see 
+   [here](etc-default-jenkins).
  - 'Create First Admin User' jar
 
 Connecting to Jenkins
