@@ -1,5 +1,4 @@
-# eol-batch
-Batch task control and monitoring for EOL traitbank
+# Batch task control and monitoring for EOL traitbank
 
 First time Jenkins setup
 
